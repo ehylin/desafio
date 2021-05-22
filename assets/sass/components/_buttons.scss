@@ -1,0 +1,10 @@
+.boton{
+    margin-top: 90px;
+    &__btn{
+        border-radius: 20px;
+        font-size: $small;
+        color: $White;
+        background-color: $Nickel;
+        margin-right: 6px;
+    }
+}

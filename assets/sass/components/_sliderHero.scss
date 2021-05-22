@@ -1,0 +1,13 @@
+.slider{
+    border: 0; 
+    border-radius: 0;
+    &__title{
+        top: 34%;
+        position: relative;
+        z-index: 100;
+        text-align: center;
+        color: $White;
+        justify-content: center;
+        font-size: $xx-large;
+    }
+}
